@@ -12,7 +12,7 @@ const maxInArray = Math.max(...numbers);
 const min = Math.min(10, 50, 1001);
 // console.log(min);
 
-
+// Milti dimention array 
 const numbers2 = [...numbers, 88];
 numbers.push(55);
 console.log(numbers);
